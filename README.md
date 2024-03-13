@@ -3,7 +3,7 @@ Low-power Efficient and Accurate Facial-Landmark Detection for Embedded Systems 
 
 `https://aidea-web.tw/topic/b048c9a3-c3bc-4650-9674-f14f4c850f12?focus=intro`
 
-這是陽交大PAIR、IVS、成大AIS舉辦的比賽，作為一個臉部識別的小白僅以此紀錄3/11至3/17陪跑的心得。
+這是陽交大PAIR、IVS、成大AIS舉辦的比賽，作為一個臉部識別的小白僅以此紀錄3/11至3/17的旅程。
 
 # 臉部關鍵點簡介
 🈳
